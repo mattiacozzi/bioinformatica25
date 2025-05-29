@@ -1,0 +1,2 @@
+#Traccia:
+#Scrivi un algoritmo che richieda all'utente di inserire un numero intero e che stampi poi a schermo un numero casuale compreso tra 1 e il numero inserito (attenzione a quest'ultima richiesta).

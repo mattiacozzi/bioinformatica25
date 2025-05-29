@@ -1,0 +1,2 @@
+#Traccia:
+#Scrivi un algoritmo che chieda all’utente quale tra le seguenti operazioni vuole compiere: mostrare i db, creare un nuovo db, eliminare un db esistente. In base alla scelta dell’utente, esegui l’operazione richiesta e, se necessario, mostra la lista dei db aggiornata.

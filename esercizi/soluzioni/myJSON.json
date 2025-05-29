@@ -1,0 +1,37 @@
+[
+    {
+      "index": 1,
+      "razza": "Siamese",
+      "origine": "Thailandia",
+      "caratteristiche": "Corpo snello, orecchie grandi e occhi blu intensi",
+      "peso medio": "3-5 kg"
+    },
+    {
+      "index": 2,
+      "razza": "Maine Coon",
+      "origine": "Stati Uniti",
+      "caratteristiche": "Grande, amichevole, pelo lungo, robusto",
+      "peso medio": "4,5-8 kg"
+    },
+    {
+      "index": 3,
+      "razza": "Persiano",
+      "origine": "Persia",
+      "caratteristiche": "Testa rotonda, pelo lungo e folto, carattere tranquillo",
+      "peso medio": "3-5 kg"
+    },
+    {
+      "index": 4,
+      "razza": "Bengala",
+      "origine": "Asia sud-orientale",
+      "caratteristiche": "Corpo muscoloso, pelo corto con macchie o rosette",
+      "peso medio": "3-6 kg"
+    },
+    {
+      "index": 5,
+      "razza": "British Shorthair",
+      "origine": "Regno Unito",
+      "caratteristiche": "Robusto, pelo corto denso, carattere calmo",
+      "peso medio": "4-8 kg"
+    }
+  ]

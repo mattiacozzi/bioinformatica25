@@ -1,0 +1,2 @@
+#Traccia:
+#Definisci una classe relativa ad un prodotto cosmetico od un profumo e crea almeno due istanze di quella classe.  Stampa a schermo le loro caratteristiche. Scrivi poi un algoritmo che chieda all'utente quale dato di quale istanza vuole modificare. Permetti all'utente di modificare il dato scelto nell'istanza corretta e mostra poi le caratteristiche dell'istanza modificata.

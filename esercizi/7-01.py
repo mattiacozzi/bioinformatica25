@@ -1,0 +1,2 @@
+#Traccia:
+#Crea un database con un nome a tua scelta e inserisci in esso almeno due tabelle (ognuna con una chiave primaria) con una relazione che le lega. Mostra poi l'elenco delle tabelle che hai creato.

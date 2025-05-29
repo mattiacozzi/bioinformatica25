@@ -1,0 +1,2 @@
+#Traccia:
+#Scrivere un algoritmo che contenga la ricetta per una torta per quattro persone. L'algoritmo deve poi chiedere all'utente per quante persone deve calcolare gli ingredienti della torta e deve poi mostrare a schermo gli ingredienti da utilizzare.

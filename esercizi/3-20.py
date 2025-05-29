@@ -1,0 +1,2 @@
+#Traccia:
+#Scrivere un algoritmo che chieda all'utente di inserire una parola e che controlli se tale parola è palindroma. Suggerimento: prima di eseguire il controllo, convertire tutta la parola in minuscolo.

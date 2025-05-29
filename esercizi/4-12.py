@@ -1,0 +1,2 @@
+#Traccia:
+#Crea una lista che contiene dieci elementi, anche ripetuti. Chiedi poi all'utente di inserire una stringa e controlla se tale elemento è presente nella lista. Se è presente, scrivi un algoritmo che conta quante volte quell'elemento si presenta nella lista, usando la funzione count().

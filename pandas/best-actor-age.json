@@ -1,0 +1,1426 @@
+[
+  {
+    "Index": 1,
+    "Gender":"Female",
+    "Year": 1928,
+    "Age": 22,
+    "Name": "Janet Gaynor",
+    "Movie": "Seventh Heaven"
+  },
+  {
+    "Index": 2,
+    "Gender":"Female",
+    "Year": 1929,
+    "Age": 37,
+    "Name": "Mary Pickford",
+    "Movie": "Coquette"
+  },
+  {
+    "Index": 3,
+    "Gender":"Female",
+    "Year": 1930,
+    "Age": 28,
+    "Name": "Norma Shearer",
+    "Movie": "The Divorcee"
+  },
+  {
+    "Index": 4,
+    "Gender":"Female",
+    "Year": 1931,
+    "Age": 63,
+    "Name": "Marie Dressler",
+    "Movie": "Min and Bill"
+  },
+  {
+    "Index": 5,
+    "Gender":"Female",
+    "Year": 1932,
+    "Age": 32,
+    "Name": "Helen Hayes",
+    "Movie": "The Sin of Madelon Claudet"
+  },
+  {
+    "Index": 6,
+    "Gender":"Female",
+    "Year": 1933,
+    "Age": 26,
+    "Name": "Katharine Hepburn",
+    "Movie": "Morning Glory"
+  },
+  {
+    "Index": 7,
+    "Gender":"Female",
+    "Year": 1934,
+    "Age": 31,
+    "Name": "Claudette Colbert",
+    "Movie": "It Happened One Night"
+  },
+  {
+    "Index": 8,
+    "Gender":"Female",
+    "Year": 1935,
+    "Age": 27,
+    "Name": "Bette Davis",
+    "Movie": "Dangerous"
+  },
+  {
+    "Index": 9,
+    "Gender":"Female",
+    "Year": 1936,
+    "Age": 27,
+    "Name": "Luise Rainer",
+    "Movie": "The Great Ziegfeld"
+  },
+  {
+    "Index": 10,
+    "Gender":"Female",
+    "Year": 1937,
+    "Age": 28,
+    "Name": "Luise Rainer",
+    "Movie": "The Good Earth"
+  },
+  {
+    "Index": 11,
+    "Gender":"Female",
+    "Year": 1938,
+    "Age": 30,
+    "Name": "Bette Davis",
+    "Movie": "Jezebel"
+  },
+  {
+    "Index": 12,
+    "Gender":"Female",
+    "Year": 1939,
+    "Age": 26,
+    "Name": "Vivien Leigh",
+    "Movie": "Gone with the Wind"
+  },
+  {
+    "Index": 13,
+    "Gender":"Female",
+    "Year": 1940,
+    "Age": 29,
+    "Name": "Ginger Rogers",
+    "Movie": "Kitty Foyle"
+  },
+  {
+    "Index": 14,
+    "Gender":"Female",
+    "Year": 1941,
+    "Age": 24,
+    "Name": "Joan Fontaine",
+    "Movie": "Suspicion"
+  },
+  {
+    "Index": 15,
+    "Gender":"Female",
+    "Year": 1942,
+    "Age": 38,
+    "Name": "Greer Garson",
+    "Movie": "Mrs. Miniver"
+  },
+  {
+    "Index": 16,
+    "Gender":"Female",
+    "Year": 1943,
+    "Age": 25,
+    "Name": "Jennifer Jones",
+    "Movie": "The Song of Bernadette"
+  },
+  {
+    "Index": 17,
+    "Gender":"Female",
+    "Year": 1944,
+    "Age": 29,
+    "Name": "Ingrid Bergman",
+    "Movie": "Gaslight"
+  },
+  {
+    "Index": 18,
+    "Gender":"Female",
+    "Year": 1945,
+    "Age": 40,
+    "Name": "Joan Crawford",
+    "Movie": "Mildred Pierce"
+  },
+  {
+    "Index": 19,
+    "Gender":"Female",
+    "Year": 1946,
+    "Age": 30,
+    "Name": "Olivia de Havilland",
+    "Movie": "To Each His Own"
+  },
+  {
+    "Index": 20,
+    "Gender":"Female",
+    "Year": 1947,
+    "Age": 35,
+    "Name": "Loretta Young",
+    "Movie": "The Farmer's Daughter"
+  },
+  {
+    "Index": 21,
+    "Gender":"Female",
+    "Year": 1948,
+    "Age": 32,
+    "Name": "Jane Wyman",
+    "Movie": "Johnny Belinda"
+  },
+  {
+    "Index": 22,
+    "Gender":"Female",
+    "Year": 1949,
+    "Age": 33,
+    "Name": "Olivia de Havilland",
+    "Movie": "The Heiress"
+  },
+  {
+    "Index": 23,
+    "Gender":"Female",
+    "Year": 1950,
+    "Age": 29,
+    "Name": "Judy Holliday",
+    "Movie": "Born Yesterday"
+  },
+  {
+    "Index": 24,
+    "Gender":"Female",
+    "Year": 1951,
+    "Age": 38,
+    "Name": "Vivien Leigh",
+    "Movie": "A Streetcar Named Desire"
+  },
+  {
+    "Index": 25,
+    "Gender":"Female",
+    "Year": 1952,
+    "Age": 54,
+    "Name": "Shirley Booth",
+    "Movie": "Come Back"
+  },
+  {
+    "Index": 26,
+    "Gender":"Female",
+    "Year": 1953,
+    "Age": 24,
+    "Name": "Audrey Hepburn",
+    "Movie": "Roman Holiday"
+  },
+  {
+    "Index": 27,
+    "Gender":"Female",
+    "Year": 1954,
+    "Age": 25,
+    "Name": "Grace Kelly",
+    "Movie": "The Country Girl"
+  },
+  {
+    "Index": 28,
+    "Gender":"Female",
+    "Year": 1955,
+    "Age": 48,
+    "Name": "Anna Magnani",
+    "Movie": "The Rose Tattoo"
+  },
+  {
+    "Index": 29,
+    "Gender":"Female",
+    "Year": 1956,
+    "Age": 41,
+    "Name": "Ingrid Bergman",
+    "Movie": "Anastasia"
+  },
+  {
+    "Index": 30,
+    "Gender":"Female",
+    "Year": 1957,
+    "Age": 28,
+    "Name": "Joanne Woodward",
+    "Movie": "The Three Faces of Eve"
+  },
+  {
+    "Index": 31,
+    "Gender":"Female",
+    "Year": 1958,
+    "Age": 41,
+    "Name": "Susan Hayward",
+    "Movie": "I Want to Live!"
+  },
+  {
+    "Index": 32,
+    "Gender":"Female",
+    "Year": 1959,
+    "Age": 39,
+    "Name": "Simone Signoret",
+    "Movie": "Room at the Top"
+  },
+  {
+    "Index": 33,
+    "Gender":"Female",
+    "Year": 1960,
+    "Age": 29,
+    "Name": "Elizabeth Taylor",
+    "Movie": "BUtterfield 8"
+  },
+  {
+    "Index": 34,
+    "Gender":"Female",
+    "Year": 1961,
+    "Age": 27,
+    "Name": "Sophia Loren",
+    "Movie": "Two Women"
+  },
+  {
+    "Index": 35,
+    "Gender":"Female",
+    "Year": 1962,
+    "Age": 31,
+    "Name": "Anne Bancroft",
+    "Movie": "The Miracle Worker"
+  },
+  {
+    "Index": 36,
+    "Gender":"Female",
+    "Year": 1963,
+    "Age": 31,
+    "Name": "Patricia Neal",
+    "Movie": "Hud"
+  },
+  {
+    "Index": 37,
+    "Gender":"Female",
+    "Year": 1964,
+    "Age": 29,
+    "Name": "Julie Andrews",
+    "Movie": "Mary Poppins"
+  },
+  {
+    "Index": 38,
+    "Gender":"Female",
+    "Year": 1965,
+    "Age": 25,
+    "Name": "Julie Christie",
+    "Movie": "Darling"
+  },
+  {
+    "Index": 39,
+    "Gender":"Female",
+    "Year": 1966,
+    "Age": 35,
+    "Name": "Elizabeth Taylor",
+    "Movie": "Who's Afraid of Virginia Woolf?"
+  },
+  {
+    "Index": 40,
+    "Gender":"Female",
+    "Year": 1967,
+    "Age": 60,
+    "Name": "Katharine Hepburn",
+    "Movie": "Guess Who's Coming to Dinner"
+  },
+  {
+    "Index": 41,
+    "Gender":"Female",
+    "Year": 1968,
+    "Age": 61,
+    "Name": "Katharine Hepburn",
+    "Movie": "The Lion in Winter"
+  },
+  {
+    "Index": 42,
+    "Gender":"Female",
+    "Year": 1969,
+    "Age": 26,
+    "Name": "Barbra Streisand",
+    "Movie": "Funny Girl"
+  },
+  {
+    "Index": 43,
+    "Gender":"Female",
+    "Year": 1970,
+    "Age": 35,
+    "Name": "Maggie Smith",
+    "Movie": "The Prime of Miss Jean Brodie"
+  },
+  {
+    "Index": 44,
+    "Gender":"Female",
+    "Year": 1971,
+    "Age": 34,
+    "Name": "Glenda Jackson",
+    "Movie": "Women in Love"
+  },
+  {
+    "Index": 45,
+    "Gender":"Female",
+    "Year": 1972,
+    "Age": 34,
+    "Name": "Jane Fonda",
+    "Movie": "Klute"
+  },
+  {
+    "Index": 46,
+    "Gender":"Female",
+    "Year": 1973,
+    "Age": 27,
+    "Name": "Liza Minnelli",
+    "Movie": "Cabaret"
+  },
+  {
+    "Index": 47,
+    "Gender":"Female",
+    "Year": 1974,
+    "Age": 37,
+    "Name": "Glenda Jackson",
+    "Movie": "A Touch of Class"
+  },
+  {
+    "Index": 48,
+    "Gender":"Female",
+    "Year": 1975,
+    "Age": 42,
+    "Name": "Ellen Burstyn",
+    "Movie": "Alice Doesn't Live Here Anymore"
+  },
+  {
+    "Index": 49,
+    "Gender":"Female",
+    "Year": 1976,
+    "Age": 41,
+    "Name": "Louise Fletcher",
+    "Movie": "One Flew Over the Cuckoo's Nest"
+  },
+  {
+    "Index": 50,
+    "Gender":"Female",
+    "Year": 1977,
+    "Age": 36,
+    "Name": "Faye Dunaway",
+    "Movie": "Network"
+  },
+  {
+    "Index": 51,
+    "Gender":"Female",
+    "Year": 1978,
+    "Age": 32,
+    "Name": "Diane Keaton",
+    "Movie": "Annie Hall"
+  },
+  {
+    "Index": 52,
+    "Gender":"Female",
+    "Year": 1979,
+    "Age": 41,
+    "Name": "Jane Fonda",
+    "Movie": "Coming Home"
+  },
+  {
+    "Index": 53,
+    "Gender":"Female",
+    "Year": 1980,
+    "Age": 33,
+    "Name": "Sally Field",
+    "Movie": "Norma Rae"
+  },
+  {
+    "Index": 54,
+    "Gender":"Female",
+    "Year": 1981,
+    "Age": 31,
+    "Name": "Sissy Spacek",
+    "Movie": "Coal Miner's Daughter"
+  },
+  {
+    "Index": 55,
+    "Gender":"Female",
+    "Year": 1982,
+    "Age": 74,
+    "Name": "Katharine Hepburn",
+    "Movie": "On Golden Pond"
+  },
+  {
+    "Index": 56,
+    "Gender":"Female",
+    "Year": 1983,
+    "Age": 33,
+    "Name": "Meryl Streep",
+    "Movie": "Sophie's Choice"
+  },
+  {
+    "Index": 57,
+    "Gender":"Female",
+    "Year": 1984,
+    "Age": 49,
+    "Name": "Shirley MacLaine",
+    "Movie": "Terms of Endearment"
+  },
+  {
+    "Index": 58,
+    "Gender":"Female",
+    "Year": 1985,
+    "Age": 38,
+    "Name": "Sally Field",
+    "Movie": "Places in the Heart"
+  },
+  {
+    "Index": 59,
+    "Gender":"Female",
+    "Year": 1986,
+    "Age": 61,
+    "Name": "Geraldine Page",
+    "Movie": "The Trip to Bountiful"
+  },
+  {
+    "Index": 60,
+    "Gender":"Female",
+    "Year": 1987,
+    "Age": 21,
+    "Name": "Marlee Matlin",
+    "Movie": "Children of a Lesser God"
+  },
+  {
+    "Index": 61,
+    "Gender":"Female",
+    "Year": 1988,
+    "Age": 41,
+    "Name": "Cher",
+    "Movie": "Moonstruck"
+  },
+  {
+    "Index": 62,
+    "Gender":"Female",
+    "Year": 1989,
+    "Age": 26,
+    "Name": "Jodie Foster",
+    "Movie": "The Accused"
+  },
+  {
+    "Index": 63,
+    "Gender":"Female",
+    "Year": 1990,
+    "Age": 80,
+    "Name": "Jessica Tandy",
+    "Movie": "Driving Miss Daisy"
+  },
+  {
+    "Index": 64,
+    "Gender":"Female",
+    "Year": 1991,
+    "Age": 42,
+    "Name": "Kathy Bates",
+    "Movie": "Misery"
+  },
+  {
+    "Index": 65,
+    "Gender":"Female",
+    "Year": 1992,
+    "Age": 29,
+    "Name": "Jodie Foster",
+    "Movie": "The Silence of the Lambs"
+  },
+  {
+    "Index": 66,
+    "Gender":"Female",
+    "Year": 1993,
+    "Age": 33,
+    "Name": "Emma Thompson",
+    "Movie": "Howards End"
+  },
+  {
+    "Index": 67,
+    "Gender":"Female",
+    "Year": 1994,
+    "Age": 36,
+    "Name": "Holly Hunter",
+    "Movie": "The Piano"
+  },
+  {
+    "Index": 68,
+    "Gender":"Female",
+    "Year": 1995,
+    "Age": 45,
+    "Name": "Jessica Lange",
+    "Movie": "Blue Sky"
+  },
+  {
+    "Index": 69,
+    "Gender":"Female",
+    "Year": 1996,
+    "Age": 49,
+    "Name": "Susan Sarandon",
+    "Movie": "Dead Man Walking"
+  },
+  {
+    "Index": 70,
+    "Gender":"Female",
+    "Year": 1997,
+    "Age": 39,
+    "Name": "Frances McDormand",
+    "Movie": "Fargo"
+  },
+  {
+    "Index": 71,
+    "Gender":"Female",
+    "Year": 1998,
+    "Age": 34,
+    "Name": "Helen Hunt",
+    "Movie": "As Good as It Gets"
+  },
+  {
+    "Index": 72,
+    "Gender":"Female",
+    "Year": 1999,
+    "Age": 26,
+    "Name": "Gwyneth Paltrow",
+    "Movie": "Shakespeare in Love"
+  },
+  {
+    "Index": 73,
+    "Gender":"Female",
+    "Year": 2000,
+    "Age": 25,
+    "Name": "Hilary Swank",
+    "Movie": "Boys Don't Cry"
+  },
+  {
+    "Index": 74,
+    "Gender":"Female",
+    "Year": 2001,
+    "Age": 33,
+    "Name": "Julia Roberts",
+    "Movie": "Erin Brockovich"
+  },
+  {
+    "Index": 75,
+    "Gender":"Female",
+    "Year": 2002,
+    "Age": 35,
+    "Name": "Halle Berry",
+    "Movie": "Monster's Ball"
+  },
+  {
+    "Index": 76,
+    "Gender":"Female",
+    "Year": 2003,
+    "Age": 35,
+    "Name": "Nicole Kidman",
+    "Movie": "The Hours"
+  },
+  {
+    "Index": 77,
+    "Gender":"Female",
+    "Year": 2004,
+    "Age": 28,
+    "Name": "Charlize Theron",
+    "Movie": "Monster"
+  },
+  {
+    "Index": 78,
+    "Gender":"Female",
+    "Year": 2005,
+    "Age": 30,
+    "Name": "Hilary Swank",
+    "Movie": "Million Dollar Baby"
+  },
+  {
+    "Index": 79,
+    "Gender":"Female",
+    "Year": 2006,
+    "Age": 29,
+    "Name": "Reese Witherspoon",
+    "Movie": "Walk the Line"
+  },
+  {
+    "Index": 80,
+    "Gender":"Female",
+    "Year": 2007,
+    "Age": 61,
+    "Name": "Helen Mirren",
+    "Movie": "The Queen"
+  },
+  {
+    "Index": 81,
+    "Gender":"Female",
+    "Year": 2008,
+    "Age": 32,
+    "Name": "Marion Cotillard",
+    "Movie": "La Vie en rose"
+  },
+  {
+    "Index": 82,
+    "Gender":"Female",
+    "Year": 2009,
+    "Age": 33,
+    "Name": "Kate Winslet",
+    "Movie": "The Reader"
+  },
+  {
+    "Index": 83,
+    "Gender":"Female",
+    "Year": 2010,
+    "Age": 45,
+    "Name": "Sandra Bullock",
+    "Movie": "The Blind Side"
+  },
+  {
+    "Index": 84,
+    "Gender":"Female",
+    "Year": 2011,
+    "Age": 29,
+    "Name": "Natalie Portman",
+    "Movie": "Black Swan"
+  },
+  {
+    "Index": 85,
+    "Gender":"Female",
+    "Year": 2012,
+    "Age": 62,
+    "Name": "Meryl Streep",
+    "Movie": "The Iron Lady"
+  },
+  {
+    "Index": 86,
+    "Gender":"Female",
+    "Year": 2013,
+    "Age": 22,
+    "Name": "Jennifer Lawrence",
+    "Movie": "Silver Linings Playbook"
+  },
+  {
+    "Index": 87,
+    "Gender":"Female",
+    "Year": 2014,
+    "Age": 44,
+    "Name": "Cate Blanchett",
+    "Movie": "Blue Jasmine"
+  },
+  {
+    "Index": 88,
+    "Gender":"Female",
+    "Year": 2015,
+    "Age": 54,
+    "Name": "Julianne Moore",
+    "Movie": "Still Alice"
+  },
+  {
+    "Index": 89,
+    "Gender":"Female",
+    "Year": 2016,
+    "Age": 26,
+    "Name": "Brie Larson",
+    "Movie": "Room"
+  },
+  {
+    "Index": 90,
+    "Gender":"Male",
+    "Year": 1928,
+    "Age": 44,
+    "Name": "Emil Jannings",
+    "Movie": "The Last Command"
+  },
+  {
+    "Index": 91,
+    "Gender":"Male",
+    "Year": 1929,
+    "Age": 41,
+    "Name": "Warner Baxter",
+    "Movie": "In Old Arizona"
+  },
+  {
+    "Index": 92,
+    "Gender":"Male",
+    "Year": 1930,
+    "Age": 62,
+    "Name": "George Arliss",
+    "Movie": "Disraeli"
+  },
+  {
+    "Index": 93,
+    "Gender":"Male",
+    "Year": 1931,
+    "Age": 53,
+    "Name": "Lionel Barrymore",
+    "Movie": "A Free Soul"
+  },
+  {
+    "Index": 94,
+    "Gender":"Male",
+    "Year": 1932,
+    "Age": 47,
+    "Name": "Wallace Beery",
+    "Movie": "The Champ"
+  },
+  {
+    "Index": 95,
+    "Gender":"Male",
+    "Year": 1933,
+    "Age": 35,
+    "Name": "Fredric March",
+    "Movie": "Dr. Jekyll and Mr. Hyde"
+  },
+  {
+    "Index": 96,
+    "Gender":"Male",
+    "Year": 1934,
+    "Age": 34,
+    "Name": "Charles Laughton",
+    "Movie": "The Private Life of Henry VIII"
+  },
+  {
+    "Index": 97,
+    "Gender":"Male",
+    "Year": 1935,
+    "Age": 34,
+    "Name": "Clark Gable",
+    "Movie": "It Happened One Night"
+  },
+  {
+    "Index": 98,
+    "Gender":"Male",
+    "Year": 1936,
+    "Age": 49,
+    "Name": "Victor McLaglen",
+    "Movie": "The Informer"
+  },
+  {
+    "Index": 99,
+    "Gender":"Male",
+    "Year": 1937,
+    "Age": 41,
+    "Name": "Paul Muni",
+    "Movie": "The Story of Louis Pasteur"
+  },
+  {
+    "Index": 100,
+    "Gender":"Male",
+    "Year": 1938,
+    "Age": 37,
+    "Name": "Spencer Tracy",
+    "Movie": "Captains Courageous"
+  },
+  {
+    "Index": 101,
+    "Gender":"Male",
+    "Year": 1939,
+    "Age": 38,
+    "Name": "Spencer Tracy",
+    "Movie": "Boys Town"
+  },
+  {
+    "Index": 102,
+    "Gender":"Male",
+    "Year": 1940,
+    "Age": 34,
+    "Name": "Robert Donat",
+    "Movie": "Goodbye"
+  },
+  {
+    "Index": 103,
+    "Gender":"Male",
+    "Year": 1941,
+    "Age": 32,
+    "Name": "James Stewart",
+    "Movie": "The Philadelphia Story"
+  },
+  {
+    "Index": 104,
+    "Gender":"Male",
+    "Year": 1942,
+    "Age": 40,
+    "Name": "Gary Cooper",
+    "Movie": "Sergeant York"
+  },
+  {
+    "Index": 105,
+    "Gender":"Male",
+    "Year": 1943,
+    "Age": 43,
+    "Name": "James Cagney",
+    "Movie": "Yankee Doodle Dandy"
+  },
+  {
+    "Index": 106,
+    "Gender":"Male",
+    "Year": 1944,
+    "Age": 48,
+    "Name": "Paul Lukas",
+    "Movie": "Watch on the Rhine"
+  },
+  {
+    "Index": 107,
+    "Gender":"Male",
+    "Year": 1945,
+    "Age": 41,
+    "Name": "Bing Crosby",
+    "Movie": "Going My Way"
+  },
+  {
+    "Index": 108,
+    "Gender":"Male",
+    "Year": 1946,
+    "Age": 39,
+    "Name": "Ray Milland",
+    "Movie": "The Lost Weekend"
+  },
+  {
+    "Index": 109,
+    "Gender":"Male",
+    "Year": 1947,
+    "Age": 49,
+    "Name": "Fredric March",
+    "Movie": "The Best Years of Our Lives"
+  },
+  {
+    "Index": 110,
+    "Gender":"Male",
+    "Year": 1948,
+    "Age": 57,
+    "Name": "Ronald Colman",
+    "Movie": "A Double Life"
+  },
+  {
+    "Index": 111,
+    "Gender":"Male",
+    "Year": 1949,
+    "Age": 41,
+    "Name": "Laurence Olivier",
+    "Movie": "Hamlet"
+  },
+  {
+    "Index": 112,
+    "Gender":"Male",
+    "Year": 1950,
+    "Age": 38,
+    "Name": "Broderick Crawford",
+    "Movie": "All the King's Men"
+  },
+  {
+    "Index": 113,
+    "Gender":"Male",
+    "Year": 1951,
+    "Age": 39,
+    "Name": "José Ferrer",
+    "Movie": "Cyrano de Bergerac"
+  },
+  {
+    "Index": 114,
+    "Gender":"Male",
+    "Year": 1952,
+    "Age": 52,
+    "Name": "Humphrey Bogart",
+    "Movie": "The African Queen"
+  },
+  {
+    "Index": 115,
+    "Gender":"Male",
+    "Year": 1953,
+    "Age": 51,
+    "Name": "Gary Cooper",
+    "Movie": "High Noon"
+  },
+  {
+    "Index": 116,
+    "Gender":"Male",
+    "Year": 1954,
+    "Age": 35,
+    "Name": "William Holden",
+    "Movie": "Stalag 17"
+  },
+  {
+    "Index": 117,
+    "Gender":"Male",
+    "Year": 1955,
+    "Age": 30,
+    "Name": "Marlon Brando",
+    "Movie": "On the Waterfront"
+  },
+  {
+    "Index": 118,
+    "Gender":"Male",
+    "Year": 1956,
+    "Age": 39,
+    "Name": "Ernest Borgnine",
+    "Movie": "Marty"
+  },
+  {
+    "Index": 119,
+    "Gender":"Male",
+    "Year": 1957,
+    "Age": 36,
+    "Name": "Yul Brynner",
+    "Movie": "The King and I"
+  },
+  {
+    "Index": 120,
+    "Gender":"Male",
+    "Year": 1958,
+    "Age": 43,
+    "Name": "Alec Guinness",
+    "Movie": "The Bridge on the River Kwai"
+  },
+  {
+    "Index": 121,
+    "Gender":"Male",
+    "Year": 1959,
+    "Age": 49,
+    "Name": "David Niven",
+    "Movie": "Separate Tables"
+  },
+  {
+    "Index": 122,
+    "Gender":"Male",
+    "Year": 1960,
+    "Age": 36,
+    "Name": "Charlton Heston",
+    "Movie": "Ben-Hur"
+  },
+  {
+    "Index": 123,
+    "Gender":"Male",
+    "Year": 1961,
+    "Age": 47,
+    "Name": "Burt Lancaster",
+    "Movie": "Elmer Gantry"
+  },
+  {
+    "Index": 124,
+    "Gender":"Male",
+    "Year": 1962,
+    "Age": 31,
+    "Name": "Maximilian Schell",
+    "Movie": "Judgment at Nuremberg"
+  },
+  {
+    "Index": 125,
+    "Gender":"Male",
+    "Year": 1963,
+    "Age": 47,
+    "Name": "Gregory Peck",
+    "Movie": "To Kill a Mockingbird"
+  },
+  {
+    "Index": 126,
+    "Gender":"Male",
+    "Year": 1964,
+    "Age": 37,
+    "Name": "Sidney Poitier",
+    "Movie": "Lilies of the Field"
+  },
+  {
+    "Index": 127,
+    "Gender":"Male",
+    "Year": 1965,
+    "Age": 57,
+    "Name": "Rex Harrison",
+    "Movie": "My Fair Lady"
+  },
+  {
+    "Index": 128,
+    "Gender":"Male",
+    "Year": 1966,
+    "Age": 42,
+    "Name": "Lee Marvin",
+    "Movie": "Cat Ballou"
+  },
+  {
+    "Index": 129,
+    "Gender":"Male",
+    "Year": 1967,
+    "Age": 45,
+    "Name": "Paul Scofield",
+    "Movie": "A Man for All Seasons"
+  },
+  {
+    "Index": 130,
+    "Gender":"Male",
+    "Year": 1968,
+    "Age": 42,
+    "Name": "Rod Steiger",
+    "Movie": "In the Heat of the Night"
+  },
+  {
+    "Index": 131,
+    "Gender":"Male",
+    "Year": 1969,
+    "Age": 45,
+    "Name": "Cliff Robertson",
+    "Movie": "Charly"
+  },
+  {
+    "Index": 132,
+    "Gender":"Male",
+    "Year": 1970,
+    "Age": 62,
+    "Name": "John Wayne",
+    "Movie": "True Grit"
+  },
+  {
+    "Index": 133,
+    "Gender":"Male",
+    "Year": 1971,
+    "Age": 43,
+    "Name": "George C. Scott",
+    "Movie": "Patton"
+  },
+  {
+    "Index": 134,
+    "Gender":"Male",
+    "Year": 1972,
+    "Age": 42,
+    "Name": "Gene Hackman",
+    "Movie": "The French Connection"
+  },
+  {
+    "Index": 135,
+    "Gender":"Male",
+    "Year": 1973,
+    "Age": 48,
+    "Name": "Marlon Brando",
+    "Movie": "The Godfather"
+  },
+  {
+    "Index": 136,
+    "Gender":"Male",
+    "Year": 1974,
+    "Age": 49,
+    "Name": "Jack Lemmon",
+    "Movie": "Save the Tiger"
+  },
+  {
+    "Index": 137,
+    "Gender":"Male",
+    "Year": 1975,
+    "Age": 56,
+    "Name": "Art Carney",
+    "Movie": "Harry and Tonto"
+  },
+  {
+    "Index": 138,
+    "Gender":"Male",
+    "Year": 1976,
+    "Age": 38,
+    "Name": "Jack Nicholson",
+    "Movie": "One Flew Over the Cuckoo's Nest"
+  },
+  {
+    "Index": 139,
+    "Gender":"Male",
+    "Year": 1977,
+    "Age": 60,
+    "Name": "Peter Finch",
+    "Movie": "Network"
+  },
+  {
+    "Index": 140,
+    "Gender":"Male",
+    "Year": 1978,
+    "Age": 30,
+    "Name": "Richard Dreyfuss",
+    "Movie": "The Goodbye Girl"
+  },
+  {
+    "Index": 141,
+    "Gender":"Male",
+    "Year": 1979,
+    "Age": 40,
+    "Name": "Jon Voight",
+    "Movie": "Coming Home"
+  },
+  {
+    "Index": 142,
+    "Gender":"Male",
+    "Year": 1980,
+    "Age": 42,
+    "Name": "Dustin Hoffman",
+    "Movie": "Kramer vs. Kramer"
+  },
+  {
+    "Index": 143,
+    "Gender":"Male",
+    "Year": 1981,
+    "Age": 37,
+    "Name": "Robert De Niro",
+    "Movie": "Raging Bull"
+  },
+  {
+    "Index": 144,
+    "Gender":"Male",
+    "Year": 1982,
+    "Age": 76,
+    "Name": "Henry Fonda",
+    "Movie": "On Golden Pond"
+  },
+  {
+    "Index": 145,
+    "Gender":"Male",
+    "Year": 1983,
+    "Age": 39,
+    "Name": "Ben Kingsley",
+    "Movie": "Gandhi"
+  },
+  {
+    "Index": 146,
+    "Gender":"Male",
+    "Year": 1984,
+    "Age": 53,
+    "Name": "Robert Duvall",
+    "Movie": "Tender Mercies"
+  },
+  {
+    "Index": 147,
+    "Gender":"Male",
+    "Year": 1985,
+    "Age": 45,
+    "Name": "F. Murray Abraham",
+    "Movie": "Amadeus"
+  },
+  {
+    "Index": 148,
+    "Gender":"Male",
+    "Year": 1986,
+    "Age": 36,
+    "Name": "William Hurt",
+    "Movie": "Kiss of the Spider Woman"
+  },
+  {
+    "Index": 149,
+    "Gender":"Male",
+    "Year": 1987,
+    "Age": 62,
+    "Name": "Paul Newman",
+    "Movie": "The Color of Money"
+  },
+  {
+    "Index": 150,
+    "Gender":"Male",
+    "Year": 1988,
+    "Age": 43,
+    "Name": "Michael Douglas",
+    "Movie": "Wall Street"
+  },
+  {
+    "Index": 151,
+    "Gender":"Male",
+    "Year": 1989,
+    "Age": 51,
+    "Name": "Dustin Hoffman",
+    "Movie": "Rain Man"
+  },
+  {
+    "Index": 152,
+    "Gender":"Male",
+    "Year": 1990,
+    "Age": 32,
+    "Name": "Daniel Day-Lewis",
+    "Movie": "My Left Foot"
+  },
+  {
+    "Index": 153,
+    "Gender":"Male",
+    "Year": 1991,
+    "Age": 42,
+    "Name": "Jeremy Irons",
+    "Movie": "Reversal of Fortune"
+  },
+  {
+    "Index": 154,
+    "Gender":"Male",
+    "Year": 1992,
+    "Age": 54,
+    "Name": "Anthony Hopkins",
+    "Movie": "The Silence of the Lambs"
+  },
+  {
+    "Index": 155,
+    "Gender":"Male",
+    "Year": 1993,
+    "Age": 52,
+    "Name": "Al Pacino",
+    "Movie": "Scent of a Woman"
+  },
+  {
+    "Index": 156,
+    "Gender":"Male",
+    "Year": 1994,
+    "Age": 37,
+    "Name": "Tom Hanks",
+    "Movie": "Philadelphia"
+  },
+  {
+    "Index": 157,
+    "Gender":"Male",
+    "Year": 1995,
+    "Age": 38,
+    "Name": "Tom Hanks",
+    "Movie": "Forrest Gump"
+  },
+  {
+    "Index": 158,
+    "Gender":"Male",
+    "Year": 1996,
+    "Age": 32,
+    "Name": "Nicolas Cage",
+    "Movie": "Leaving Las Vegas"
+  },
+  {
+    "Index": 159,
+    "Gender":"Male",
+    "Year": 1997,
+    "Age": 45,
+    "Name": "Geoffrey Rush",
+    "Movie": "Shine"
+  },
+  {
+    "Index": 160,
+    "Gender":"Male",
+    "Year": 1998,
+    "Age": 60,
+    "Name": "Jack Nicholson",
+    "Movie": "As Good as It Gets"
+  },
+  {
+    "Index": 161,
+    "Gender":"Male",
+    "Year": 1999,
+    "Age": 46,
+    "Name": "Roberto Benigni",
+    "Movie": "Life Is Beautiful"
+  },
+  {
+    "Index": 162,
+    "Gender":"Male",
+    "Year": 2000,
+    "Age": 40,
+    "Name": "Kevin Spacey",
+    "Movie": "American Beauty"
+  },
+  {
+    "Index": 163,
+    "Gender":"Male",
+    "Year": 2001,
+    "Age": 36,
+    "Name": "Russell Crowe",
+    "Movie": "Gladiator"
+  },
+  {
+    "Index": 164,
+    "Gender":"Male",
+    "Year": 2002,
+    "Age": 47,
+    "Name": "Denzel Washington",
+    "Movie": "Training Day"
+  },
+  {
+    "Index": 165,
+    "Gender":"Male",
+    "Year": 2003,
+    "Age": 29,
+    "Name": "Adrien Brody",
+    "Movie": "The Pianist"
+  },
+  {
+    "Index": 166,
+    "Gender":"Male",
+    "Year": 2004,
+    "Age": 43,
+    "Name": "Sean Penn",
+    "Movie": "Mystic River"
+  },
+  {
+    "Index": 167,
+    "Gender":"Male",
+    "Year": 2005,
+    "Age": 37,
+    "Name": "Jamie Foxx",
+    "Movie": "Ray"
+  },
+  {
+    "Index": 168,
+    "Gender":"Male",
+    "Year": 2006,
+    "Age": 38,
+    "Name": "Philip Seymour Hoffman",
+    "Movie": "Capote"
+  },
+  {
+    "Index": 169,
+    "Gender":"Male",
+    "Year": 2007,
+    "Age": 45,
+    "Name": "Forest Whitaker",
+    "Movie": "The Last King of Scotland"
+  },
+  {
+    "Index": 170,
+    "Gender":"Male",
+    "Year": 2008,
+    "Age": 50,
+    "Name": "Daniel Day-Lewis",
+    "Movie": "There Will Be Blood"
+  },
+  {
+    "Index": 171,
+    "Gender":"Male",
+    "Year": 2009,
+    "Age": 48,
+    "Name": "Sean Penn",
+    "Movie": "Milk"
+  },
+  {
+    "Index": 172,
+    "Gender":"Male",
+    "Year": 2010,
+    "Age": 60,
+    "Name": "Jeff Bridges",
+    "Movie": "Crazy Heart"
+  },
+  {
+    "Index": 173,
+    "Gender":"Male",
+    "Year": 2011,
+    "Age": 50,
+    "Name": "Colin Firth",
+    "Movie": "The King's Speech"
+  },
+  {
+    "Index": 174,
+    "Gender":"Male",
+    "Year": 2012,
+    "Age": 39,
+    "Name": "Jean Dujardin",
+    "Movie": "The Artist"
+  },
+  {
+    "Index": 175,
+    "Gender":"Male",
+    "Year": 2013,
+    "Age": 55,
+    "Name": "Daniel Day-Lewis",
+    "Movie": "Lincoln"
+  },
+  {
+    "Index": 176,
+    "Gender":"Male",
+    "Year": 2014,
+    "Age": 44,
+    "Name": "Matthew McConaughey",
+    "Movie": "Dallas Buyers Club"
+  },
+  {
+    "Index": 177,
+    "Gender":"Male",
+    "Year": 2015,
+    "Age": 33,
+    "Name": "Eddie Redmayne",
+    "Movie": "The Theory of Everything"
+  },
+  {
+    "Index": 178,
+    "Gender":"Male",
+    "Year": 2016,
+    "Age": 41,
+    "Name": "Leonardo DiCaprio",
+    "Movie": "The Revenant"
+  }
+]

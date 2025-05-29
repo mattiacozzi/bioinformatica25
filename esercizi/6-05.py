@@ -1,0 +1,2 @@
+#Traccia:
+#Dopo aver ricreato i database “Gatti”, “Cani” e “Pappagalli” ,scrivi un algoritmo che mostri all’utente l’elenco dei database presenti nel sistema. Fai digitare all’utente il nome del database che vuole eliminare ed esegui l’eliminazione.

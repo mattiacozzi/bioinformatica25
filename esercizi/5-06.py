@@ -1,0 +1,2 @@
+#Traccia:
+#Crea due istanze della classe ``Gatto'' con le seguenti caratteristiche: nome, padrone, colorePelo, peso, sesso. Crea poi il metodo ``litiga'' e scrivi un algoritmo che mostri a schermo che una istanza sta litigando con l'altra.

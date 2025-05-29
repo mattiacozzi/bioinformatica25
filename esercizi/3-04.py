@@ -1,0 +1,2 @@
+#Traccia:
+#Scrivere un algoritmo che chieda all'utente di inserire il suo mese di nascita e il mese corrente e stabilisca poi, mostrandolo a schermo, se al mese corrente è più vicino il compleanno passato oppure il prossimo compleanno. Se i compleanni sono equidistanti, scegliere liberamente quale alternativa mostrare.

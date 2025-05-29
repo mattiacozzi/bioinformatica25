@@ -1,0 +1,2 @@
+#Traccia:
+#Scrivi un algoritmo che chieda all’utente una data iniziale e una data finale. Salva in un file CSV i dati relativi alle vittorie agli Oscar negli anni compresi tra i due che l’utente ha inserito. Mostra a schermo il contenuto di tale file.

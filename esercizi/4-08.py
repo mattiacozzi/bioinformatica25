@@ -1,0 +1,2 @@
+#Traccia:
+#Crea una lista con un numero di elementi a piacere, stampala e crea un algoritmo che chieda all'utente cosa vuole fare: modificare un elemento, aggiungerne uno in una certa posizione oppure eliminarlo. Esegui l'operazione che l'utente ha scelto e mostra la stringa modificata.

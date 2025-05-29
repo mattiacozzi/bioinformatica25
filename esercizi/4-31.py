@@ -1,0 +1,2 @@
+#Traccia:
+#Crea un dict per un oggetto a tua scelta. Mostra poi tutte le chiavi presenti all'utente e chiedi se vuole modificare qualche valore. Se sì, crea un algoritmo che permetta all'utente di cambiare il valore di una chiave.

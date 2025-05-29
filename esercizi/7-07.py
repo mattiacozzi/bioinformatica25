@@ -1,0 +1,2 @@
+#Traccia:
+#[db-profumi] Scrivi un algoritmo che chieda all’utente se vuole creare un nuovo profumo oppure eliminarne uno già esistente (usa l’ID del prodotto per l’eliminazione, non il nome). Esegui, se l’utente ha digitato tutto correttamente, l’operazione richiesta. Se l’utente ha commesso errori, mostra un messaggio di errore e chiedi di nuovo cosa si vuole fare.

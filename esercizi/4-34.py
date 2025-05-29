@@ -1,0 +1,2 @@
+#Traccia:
+#Realizza un dizionario relativo ad un profumo o ad un prodotto cosmetico. Usa un dizionario annidato per fornire la composizione dettagliata. Mostra i dati a schermo, con una formattazione gradevole e leggibile.

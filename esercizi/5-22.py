@@ -1,0 +1,2 @@
+#Traccia:
+#Installa il pacchetto "camelcase" tramite pip. Importalo in un algoritmo che richieda all'utente una stringa e usi poi il metodo CamelCase() (presente nel nuovo pacchetto) per mostrare all'utente la stringa che ha inserito convertita in camelcase.

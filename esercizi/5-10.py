@@ -1,0 +1,2 @@
+#Traccia:
+#Crea la classe generale ``Animale'' con le seguenti caratteristiche: nomeScientifico, peso, specie. Crea poi la sottoclasse ``gattoDomestico'', che aggiunge come caratteristiche: nome, padrone, indirizzo. Crea poi un metodo specifico per questa classe, come ``X mangia i croccantini''. Crea infine la sottoclasse ``gattoSelvatico'', che aggiunge come caratteristiche: carattere, habitat e un metodo specifico a tua scelta.

@@ -1,0 +1,2 @@
+#Traccia:
+#Crea un algoritmo che permetta ad un utente di creare una lista e aggiungerci elementi finché preferisce. Chiedi successivamente se si vuole che venga mostrato il minimo o il massimo valore presenti nella lista. In base alla risposta fornita, mostra l'elemento corretto.

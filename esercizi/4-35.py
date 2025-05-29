@@ -1,0 +1,2 @@
+#Traccia:
+#Crea 3 dizionari come descritto nell'esercizio precedente. Una delle chiavi deve essere un codice (da 1 a 3). Chiedi poi all'utente di inserire un numero da 1 a 3 (altrimenti viene mostrato un errore) e in base al codice inserito, mostra le informazioni del prodotto con un output gradevole e leggibile.

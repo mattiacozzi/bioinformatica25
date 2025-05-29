@@ -1,0 +1,2 @@
+#Traccia:
+#Crea due dizionari per due prodotti, in modo simile all'esercizio precedente. Scegli poi due chiavi numeriche (come il peso, una percentuale, il prezzo o un codice) e scrivi un algoritmo che controlli, per i due prodotti creati, quale dei due ha il valore maggiore per la chiave prescelta. Dovrà mostrare "Il valore [NomeChiave] è più alto per [prodotto1/prodotto2]"

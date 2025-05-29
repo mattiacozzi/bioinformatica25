@@ -1,0 +1,2 @@
+#Traccia:
+#Crea una lista di 5 elementi tutti nulli. Chiedi poi all'utente di inserire dei valori nella lista e calcola la somma di tutti i valori inseriti. Mostra come output "La somma di X, Y, Z, ... è W".

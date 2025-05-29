@@ -1,0 +1,2 @@
+#Traccia:
+#Scrivere un algoritmo che che chieda all'utente di quale numero voglia calcolare il quadrato, legga l'input dell'utente e ne mostri il quadrato. Successivamente, chiedere se si vuole calcolare un altro quadrato. Se l'utente risponde Y, allora chiedere un altro valore e ripetere il calcolo. Se l'utente risponde N, uscire dall'algoritmo.

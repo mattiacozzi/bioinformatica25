@@ -1,0 +1,2 @@
+#Traccia:
+#Realizza un dizionario che esprima le caratteristiche, ingredienti compresi, di un profumo o di un prodotto cosmetico. Mostra poi i dati del prodotto formattando l'output in modo chiaro e gradevole.

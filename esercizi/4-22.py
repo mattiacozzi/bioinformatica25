@@ -1,0 +1,2 @@
+#Traccia:
+#Crea due insiemi disgiunti e stampali. Crea poi la loro unione e stampala. Concludi poi con un algoritmo che controlla se la somma delle cardinalità del primo e del secondo insieme è uguale alla cardinalità dell'insieme unione.

@@ -1,0 +1,2 @@
+#Traccia:
+#[db-profumi] Scrivi un algoritmo che richieda all’utente l’ID di un profumo e chieda successivamente quale attributo vuole modificare. Fai inserire il nuovo valore ed esegui l’operazione richiesta.

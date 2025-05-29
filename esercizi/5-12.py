@@ -1,0 +1,2 @@
+#Traccia:
+#Crea un modulo che contenga la funzione ``X coccola Y''. Il modulo deve anche contenere la definizione di due classi, ``Persona'' e ``Gatto'', con caratteristiche a tua scelta. Crea una istanza per ogni classe. Importa il modulo creato in un algoritmo e utilizza in esso le funzioni e gli oggetti definiti nel modulo.

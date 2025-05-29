@@ -1,0 +1,2 @@
+#Traccia:
+#Scrivere un algoritmo che chieda all'utente le masse di due corpi in kg, la loro distanza in metri e calcoli l'intensità della forza di attrazione gravitazionale tra di essi. Il risultato deve essere mostrato in notazione scientifica con tre decimali e deve essere presentato con chiarezza da una stringa appropriatamente costruita.

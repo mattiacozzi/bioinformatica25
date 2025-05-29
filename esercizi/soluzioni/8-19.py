@@ -1,0 +1,8 @@
+#Traccia:
+#Mostra il dataframe relativo agli Oscar ordinando i dati per età dell’attore/attrice che ha vinto.
+import pandas as pd
+
+attori = pd.read_csv("best-actor-age.csv")
+
+attoriSorted = attori.sort_values(by="Age")
+print(attoriSorted.to_string())

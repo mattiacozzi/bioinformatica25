@@ -1,0 +1,2 @@
+#Traccia:
+#Scrivi un algoritmo che chieda all’utente se vuole convertire il file “best-actor-age-updated.csv” in formato XLSX o lasciarlo in CSV. Chiedi poi se vuole salvare solo i dati relativi alle donne, agli uomini o a entrambi. Salva poi il file così come l’utente ha richiesto.

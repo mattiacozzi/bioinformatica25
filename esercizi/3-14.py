@@ -1,0 +1,2 @@
+#Traccia:
+#In un cinema esistono 5 tipi di biglietti diversi. I bambini sotto i 6 anni pagano 3€, tra i 7 e i 12 anni pagano 5€, i ragazzi tra 13 e 18 anni pagano 7€, gli adulti pagano 10€ e infine gli anziani sopra i 70 anni entrano gratis. Scrivi un algoritmo che chieda quanti biglietti si vogliono acquistare e successivamente, per ogni biglietto, chieda l'età dell'acquirente e valuti quindi quanto si deve pagare. L'algoritmo deve infine mostrare il prezzo finale, cioè la somma di tutti i prezzi dei biglietti.

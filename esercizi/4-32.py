@@ -1,0 +1,2 @@
+#Traccia:
+#Crea un dict per un oggetto a tua scelta. Mostra poi tutte le chiavi presenti all'utente e chiedi se vuole Operare sui dati. Se sì, chiedi quale operazione vuole compiere: aggiunta, eliminazione o modifica di dati. Crea un algoritmo che permetta all'utente di eseguire l'operazione selezionata. Una volta eseguita, deve essere mostrato il dict modificato.

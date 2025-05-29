@@ -1,0 +1,2 @@
+#Traccia:
+#Scrivi un algoritmo in cui viene chiesto all'utente di inserire dei dati numerici fino a che non digita "X". I dati devono essere salvati in una lista. Definisci e implementa una funzione che stampi solo i valori della lista maggiori della media dei valori contenuti nella lista stessa.

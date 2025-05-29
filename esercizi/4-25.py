@@ -1,0 +1,2 @@
+#Traccia:
+#Crea due insiemi, eventualmente con elementi in comune, e scrivi un algoritmo che confermi che la cardinalità della loro differenza simmetrica è uguale alla somma delle cardinalità dei due insiemi meno il doppio della cardinalità dell'intersezione tra essi.

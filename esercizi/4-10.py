@@ -1,0 +1,2 @@
+#Traccia:
+#Scrivi un algoritmo che permetta di aggiungere elementi ad una lista fino a che l'utente non digita "finito". Mostra poi la lista ottenuta in ordine alfabetico e in ordine alfabetico inverso, con un numero davanti ad ogni elemento che ne indichi la posizione nella lista.

@@ -1,0 +1,2 @@
+#Traccia:
+#Scrivi un algoritmo che richieda all'utente di inserire alcuni suoi dati: nome, cognome, compleanno, ecc. Salva le risposte dell'utente in un file di testo che viene creato all'esecuzione dell'algoritmo.
