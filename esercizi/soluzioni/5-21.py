@@ -12,5 +12,5 @@ random.seed()
 x = random.randint(1, numero)
 
 #mostro il numero
-string = "Ecco un numero casuale tra 1 e {}:\n{}"
-print(string.format(numero, x))
+string = f"Ecco un numero casuale tra 1 e {numero}:\n{x}"
+print(string)

@@ -5,12 +5,10 @@ persone = int(input("Quanti biglietti vuoi acquistare? "))
 totale = 0
 spett = 1 #contatore di biglietti
 #preparo le stringhe
-string = "Età spettatore {}: "
-string2 = "Il costo del biglietto per spettatore {} è di {} euro."
-string3 = "Il costo totale dei biglietti è {} euro."
+string = f"Età spettatore {spett}: "
 
 while (spett <= persone):
-    age = int(input(string.format(spett)))
+    age = int(input(string))
     if age < 7:
         prezzo = 3
     elif age < 13:
@@ -21,8 +19,10 @@ while (spett <= persone):
         prezzo = 10
     else:
         prezzo = 0
-    print(string2.format(spett,prezzo))
+    string2 = f"Il costo del biglietto per spettatore {spett} è di {prezzo} euro."
+    print(string2)
     totale = totale + prezzo #aggiorno il totale con il nuovo biglietto
     spett += 1 #aumento il valore del contatore
 
-print(string3.format(totale))
+string3 = f"Il costo totale dei biglietti è {totale} euro."
+print(string3)

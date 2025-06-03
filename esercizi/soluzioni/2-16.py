@@ -8,7 +8,7 @@ numero = 42
 binario = bin(numero)
 
 #imposto la stringa
-string = "Il binario di {} è {}"
+string = f"Il binario di {numero} è {binario}"
 
 #stampo la stringa
-print(string.format(numero, binario))
+print(string)

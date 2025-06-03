@@ -8,7 +8,7 @@ numero = 23
 quadrato = pow(numero, 2)
 
 #preparo la stringa
-string = "Il quadrato di {} è {}"
+string = f"Il quadrato di {numero} è {quadrato}"
 
 #stampo la stringa coi valori
-print(string.format(numero, quadrato))
+print(string)

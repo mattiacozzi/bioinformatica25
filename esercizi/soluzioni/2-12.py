@@ -6,6 +6,6 @@ numero2 = 7
 
 resto = numero1 % numero2
 
-string = "Il resto della divisione tra {} e {} vale {}."
+string = f"Il resto della divisione tra {numero1} e {numero2} vale {resto}."
 
-print(string.format(numero1, numero2, resto))
+print(string)

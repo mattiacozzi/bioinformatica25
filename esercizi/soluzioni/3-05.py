@@ -19,10 +19,10 @@ if (delta < 0):
 else:
     if (delta == 0):
         x = (-b)/(2*a)
-        string = "L'equazione ha una sola soluzione: x = {}"
-        print(string.format(x))
+        string = f"L'equazione ha una sola soluzione: x = {x}"
+        print(string)
     else:
         x1 = (-b + math.sqrt(delta))/(2*a)
         x2 = (-b - math.sqrt(delta))/(2*a)
-        string = "L'equazione ha due soluzioni: x = {} v x = {}"
-        print(string.format(x1, x2))
+        string = f"L'equazione ha due soluzioni: x = {x1} v x = {x2}"
+        print(string)

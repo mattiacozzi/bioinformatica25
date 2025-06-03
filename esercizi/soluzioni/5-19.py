@@ -15,7 +15,7 @@ today = datetime.date(datetime.datetime.now().year, datetime.datetime.now().mont
 
 distanza = (today - nascita).days
 
-string = "Sei in vita da {} giorni."
+string = f"Sei in vita da {distanza} giorni."
 
-print(string.format(distanza))
+print(string)
 

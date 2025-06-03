@@ -8,11 +8,11 @@ while choice != 0:
     choice = input()
     if choice in dadi:
         choice = int(choice)
-        string1 = "Hai scelto di lanciare un dado da {}"
-        print(string1.format(choice))
+        string1 = f"Hai scelto di lanciare un dado da {choice}"
+        print(string1)
         lancio = random.randrange(0, choice) + 1
-        string2 = "\nHai tirato un {}!\n"
-        print(string2.format(lancio))
+        string2 = f"\nHai tirato un {lancio}!\n"
+        print(string2)
     elif choice == "0":
         break
     else:

@@ -6,8 +6,8 @@ risp = "Y"
 while (risp == "Y"): #fino a che risp vale Y, esegui:
     x = int(input("Inserisci il numero di cui vuoi scoprire il quadrato: "))
     quad = x*x
-    string = "Il quadrato di {} è {}."
-    print(string.format(x,quad))
+    string = f"Il quadrato di {x} è {quad}."
+    print(string)
 
     while (risp != "N"):
         risp = input("Vuoi calcolare un altro quadrato? Y/N: ")

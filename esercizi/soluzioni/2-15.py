@@ -8,7 +8,7 @@ numero = int(input("Inserisci un numero: "))
 quad = pow(numero, 2)
 
 #imposto la stringa
-string = "Il quadrato di {} è {}."
+string = f"Il quadrato di {numero} è {quad}."
 
 #stampo la stringa
-print(string.format(numero, quad))
+print(string)

@@ -14,5 +14,5 @@ elif age < 71:
 else:
     prezzo = 0
 
-string = "Il tuo biglietto costa {} euro."
-print(string.format(prezzo))
+string = f"Il tuo biglietto costa {prezzo} €."
+print(string)

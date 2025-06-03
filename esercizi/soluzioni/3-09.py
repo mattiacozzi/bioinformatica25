@@ -27,7 +27,7 @@ elif (delta <= 0) and (a < 0):
 else:
     if (delta == 0):
         x = (-b)/(2*a)
-        string = "La disequazione ha come soluzione: x =/= {}"
+        string = f"La disequazione ha come soluzione: x ≠ {x}"
         print(string.format(x))
     else:
         x1 = (-b + math.sqrt(delta))/(2*a)
@@ -36,8 +36,8 @@ else:
         piccolo = min(x1, x2)
         grande = max(x1, x2)
         if (a > 0):
-            string = "La disequazione come soluzione: x < {} v x > {}"
-            print(string.format(piccolo, grande))
+            string = f"La disequazione come soluzione: x < {piccolo} v x > {grande}"
+            print(string)
         else:
-            string = "La disequazione come soluzione: {} < x < {}"
-            print(string.format(piccolo, grande))
+            string = f"La disequazione come soluzione: {piccolo} < x < {grande}"
+            print(string)

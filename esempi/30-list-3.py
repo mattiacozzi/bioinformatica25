@@ -1,5 +1,15 @@
-alberi = ["Quercia","Pino","Faggio","Ontano","Castagno","Acero","Ciliegio","Salice","Betulla","Magnolia"]
+alberi = ["Quercia",
+          "Pino",
+          "Faggio",
+          "Ontano",
+          "Castagno",
+          "Acero",
+          "Ciliegio",
+          "Salice",
+          "Betulla",
+          "Magnolia"]
 stringa = "{}. {}"
+
 print("Ecco gli elementi della tua lista numerati:")
 for x in range(len(alberi)):
     print(stringa.format(x+1, alberi[x]))

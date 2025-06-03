@@ -19,7 +19,7 @@ sale = 1
 
 #preparo le stringhe
 intro = "Ecco gli ingredienti per una torta {} per {} persone:"
-ricetta = "mele      {0} grammi
+ricetta = """mele      {0} grammi
 farina    {1} grammi
 latte     {2} mL
 limoni    {3}
@@ -28,7 +28,7 @@ zucchero  {5} grammi
 burro     {6} grammi
 uova      {7}
 lievito   {8} grammi
-sale      {9} pizzichi"
+sale      {9} pizzichi"""
 
 #stampo le stringhe
 print(intro.format(torta, persone))

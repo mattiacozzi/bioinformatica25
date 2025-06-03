@@ -17,7 +17,7 @@ while (contatore <= numero):
     #ad ogni ciclo, passo al valore successivo per il contatore
     contatore = contatore + 1 
 
-string = "La somma di tutti i numeri da 0 a {} vale {}."
-print(string.format(numero, somma))
+string = f"La somma di tutti i numeri da 0 a {numero} vale {somma}."
+print(string)
 
 #questo algoritmo può essere realizzato in forma più semplice facendo diminuire ad ogni ciclo il valore di "numero". Prova!

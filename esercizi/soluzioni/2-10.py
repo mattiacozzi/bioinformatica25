@@ -1,12 +1,12 @@
 #Traccia:
 #Contare tutte le volte che la lettera "a" compare nei testi dei due esercizi precedenti.
 
-dante = "
+dante = """
 Buongiorno, mi chiamo Dante Alighieri e di professione sono scrittore.
 Sono nato a Firenze nel 1265.
-"
+"""
 
-catullo = "
+catullo = """
 [Testo originale]
 Vivamus, mea Lesbia, atque amemus,
 rumoresque senum severiorum
@@ -36,7 +36,7 @@ poi, quando ce ne saremo dati molte migliaia,
 li mescoleremo, per non sapere (il loro numero)
 e perché nessun malvagio ci possa guardare male,
 sapendo che qui ci sono tanti baci.
-"
+"""
 
 string = "Nella {} stringa la lettera a compare {} volte."
 print(string.format("prima",dante.count("a")))

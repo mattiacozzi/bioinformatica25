@@ -10,6 +10,6 @@ for x in range(5):
     numeri[x] = val
     tot = tot + val
 
-string = "La somma di {}, {}, {}, {} e {} è {}."
+string = f"La somma di {numeri[0]}, {numeri[1]}, {numeri[2]}, {numeri[3]} e {numeri[4]} è {tot}."
 
-print(string.format(numeri[0], numeri[1], numeri[2], numeri[3], numeri[4], tot))
+print(string)

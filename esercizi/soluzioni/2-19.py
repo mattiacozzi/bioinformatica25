@@ -15,7 +15,7 @@ G = 6.673E-11
 forza = (G * massa1 * massa2) / (pow(dist, 2))
 
 #preparo la stringa con la formattazione corretta (vedi le opzioni complete di formattazione)
-string = "La forza di attrazione tra due corpi di massa {} kg e {} kg distanti {} m vale {:.3E} N."
+string = f"La forza di attrazione tra due corpi di massa {massa1} kg e {massa2} kg distanti {dist} m vale {forza:.3E} N."
 
 #stampo la stringa
-print(string.format(massa1, massa2, dist, forza))
+print(string)

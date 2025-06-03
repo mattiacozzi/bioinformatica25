@@ -28,5 +28,5 @@ myFile.write(content)
 #chiusura del file
 myFile.close()
 
-string = "File {} creato correttamente."
-print(string.format(fileExt))
+string = f"File {fileExt} creato correttamente."
+print(string)

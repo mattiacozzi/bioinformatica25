@@ -13,9 +13,9 @@ else:
     distFut = 12 - distPast
 
 if distPast < distFut:
-    string = "Siamo più vicini al tuo compleanno passato ({} mesi) che al prossimo compleanno ({} mesi)."
-    print(string.format(distPast, distFut))
+    string = f"Siamo più vicini al tuo compleanno passato ({distPast} mesi) che al prossimo compleanno ({distFut} mesi)."
+    print(string)
 else:
-    string = "Siamo più vicini al tuo prossimo compleanno ({} mesi) che al compleanno passato ({} mesi)."
-    print(string.format(distFut, distPast))
+    string = f"Siamo più vicini al tuo prossimo compleanno ({distFut} mesi) che al compleanno passato ({distPast} mesi)."
+    print(string)
 

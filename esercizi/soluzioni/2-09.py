@@ -1,7 +1,7 @@
 #Traccia:
 #Riscrivere una poesia di almeno 5 versi in una unica variabile stringa e stamparla a schermo.
 
-catulloCarmeV = "
+catulloCarmeV = """
 [Testo originale]
 Vivamus, mea Lesbia, atque amemus,
 rumoresque senum severiorum
@@ -31,6 +31,6 @@ poi, quando ce ne saremo dati molte migliaia,
 li mescoleremo, per non sapere (il loro numero)
 e perché nessun malvagio ci possa guardare male,
 sapendo che qui ci sono tanti baci.
-"
+"""
 
 print(catulloCarmeV)

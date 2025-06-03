@@ -5,8 +5,8 @@ import math
 
 def converti(a):
     risultato = a * math.pi / 180
-    string = "L'angolo {} in radianti vale {}."
-    print(string.format(a, risultato))
+    string = f"L'angolo {a} in radianti vale {risultato}."
+    print(string)
 
 primo = float(input("Inserisci un angolo in gradi da convertire in radianti: "))
 converti(primo)

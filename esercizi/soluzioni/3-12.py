@@ -9,5 +9,5 @@ while (x != 0): #ripeti finché non viene inserito 0
     x = int(input("Inserisci il prossimo numero (0 per uscire): "))
     tot = tot + x   #aggiorno il valore del totale, se l'utente inserisce 0, il valore del totale non cambia
 
-string = "La somma di tutti i numeri che hai immesso vale {}."
-print(string.format(tot))
+string = f"La somma di tutti i numeri che hai immesso vale {tot}."
+print(string)

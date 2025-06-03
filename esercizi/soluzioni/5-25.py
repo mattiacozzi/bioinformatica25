@@ -11,14 +11,16 @@ residenza = input("Inserisci la città in cui abiti: ")
 myFile = open("userInfo.txt","w")
 
 #stringa multilinea per le info
-data = """Nome: {}
-Cognome: {}
-Compleanno: {}
-Residenza: {}
+data = f"""Nome: {nome}
+Cognome: {cognome}
+Compleanno: {compleanno}
+Residenza: {residenza}
 """
 
 #scrittura della stringa nel file
-myFile.write(data.format(nome, cognome, compleanno, residenza))
+myFile.write(data)
 
 #chiusura del file
 myFile.close()
+
+print("Informazioni salvate.")

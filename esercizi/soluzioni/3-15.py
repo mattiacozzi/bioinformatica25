@@ -8,8 +8,8 @@ primo = 1
 secondo = 1
 
 #presento la sequenza
-string = "Ecco la sequenza di Fibonacci con valori minori o uguali a {}:"
-print(string.format(max))
+string = f"Ecco la sequenza di Fibonacci con valori minori o uguali a {max}:"
+print(string)
 
 #stampo i primi valori
 print(primo)

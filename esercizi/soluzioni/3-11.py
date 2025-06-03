@@ -17,5 +17,5 @@ while (contatore <= numero):
     #ad ogni ciclo, passo al valore successivo per il contatore
     contatore = contatore + 1 
 
-string = "{}! =  {}."
-print(string.format(numero, prod))
+string = f"{numero}! =  {prod}."
+print(string)

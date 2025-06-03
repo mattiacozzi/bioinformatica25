@@ -6,5 +6,5 @@ import math
 numero = float(input("Inserisci un numero di cui calcolare il logaritmo naturale: "))
 risultato = math.log(numero)
 
-string = "Il logaritmo naturale di {} vale {}."
-print(string.format(numero, risultato))
+string = f"Il logaritmo naturale di {numero} vale {risultato}."
+print(string)

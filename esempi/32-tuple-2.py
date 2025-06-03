@@ -1,10 +1,20 @@
-alberi = ("Quercia","Pino","Faggio","Ontano","Acero")
+alberi = ("Quercia",
+          "Pino",
+          "Faggio",
+          "Ontano",
+          "Acero")
+
 print("La tupla PRIMA della modifica;")
+
 for x in alberi:
     print(x)
+
 alberi2 = list(alberi)
+
 alberi2[3] = "Palma"
+
 alberi = tuple(alberi2)
+
 print("La tupla DOPO la modifica:")
 for x in alberi:
     print(x)

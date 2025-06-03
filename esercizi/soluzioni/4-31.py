@@ -15,9 +15,9 @@ prodotto1 = {
 
 chiavi = prodotto1.keys()
 
-stringa = "Il prodotto ha le seguenti chiavi:\n{}"
+stringa = f"Il prodotto ha le seguenti chiavi:\n{chiavi}"
 
-print(stringa.format(chiavi))
+print(stringa)
 
 choice = input("Vuoi cambiare il valore di qualche chiave? Y/N: ")
 

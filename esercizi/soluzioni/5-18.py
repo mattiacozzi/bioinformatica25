@@ -21,10 +21,7 @@ giorno = settimana[today.weekday()]
 #nome del prossimo giorno della settimana che mi interessa
 prossimo = settimana[(today.weekday() + numero)%7]
 
-string = "Oggi è {}.\nTra {} giorni sarà {}."
+string = f"Oggi è {giorno}.\nTra {numero} giorni sarà {prossimo}."
 
 #stampo la stringa
-print(string.format(giorno, numero, prossimo))
-
-
-strftime("%B")
+print(string)
